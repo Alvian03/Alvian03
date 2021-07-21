@@ -29,6 +29,7 @@
 ![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg)
 ![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)
 
-## How to reach me
+## How to reach me 
 [<img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="32">](https://www.instagram.com/vianjg.03_)
 [<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32">](http://t.me/vianjg_03)
+[<img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" width="32">](http://wa.me/62895414533737)
