@@ -8,7 +8,7 @@
 - 🤖 Sometimes I work on bot WhatsApp/Telegram
 
 ## What's the weather
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alvian&layout=compact&theme=dracula)](https://github.com/Alvian03)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alvian&layout=compact&theme=dracula (https://github.com/Alvian03)
 
 ## Everyday-everynight
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Alvian03&theme=dracula)](https://github.com/Alvian03)
