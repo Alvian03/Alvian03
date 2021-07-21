@@ -10,7 +10,7 @@
 ## What's the weather
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Alvian03&layout=compact&theme=nightowl)
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Alvian03&repo=bot_telegram&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Alvian03&repo=Vian Ofc&theme=dark)
 
 
 ## Thropy
