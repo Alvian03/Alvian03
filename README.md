@@ -11,7 +11,7 @@
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Alvian03&layout=compact&theme=nightowl)
 
 ## Everyday-everynight
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Alvian03&theme=dracula)](https://github.com/Alvian03)
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Alvian03&theme=dracula)](https:/github.com/Alvian03)
 
 ## Thropy
 [![Thropy](https://github-profile-trophy.vercel.app/?username=Alvian03&row=2&column=3)](https://github.com/Alvian03)
